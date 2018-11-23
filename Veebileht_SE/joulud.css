@@ -1,0 +1,20 @@
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+h5 {
+color: rebeccapurple;  
+}
+h5,
+p {
+font-family: Georgia; 
+}
+
+.suured-pealkirjad {
+    color: pink;
+}
