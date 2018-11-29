@@ -106,12 +106,13 @@ h1
 
 .jõulutoidud
 {
+    margin-bottom: -500px;
     color: white;
     text-transform: none;
-    font-size: 40px;
-    margin-left: 60px;
-    margin-top: -30px;
-    -webkit-text-stroke:1px rgb(200, 0, 0);
+    font-size: 50px;
+    margin-left: 325px;
+    margin-right: 100px;
+    -webkit-text-stroke:1.5px rgb(200, 0, 0);
    
 }
 
