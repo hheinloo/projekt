@@ -94,10 +94,12 @@ h3
     left: 40px;
     right: 40px;
     color: white;
+    background-color: rgba(233, 69, 69, 0.3);
 }
 .media
 {
     position: absolute;
     top: 545px;
     left: 1030px;
+    
 }
